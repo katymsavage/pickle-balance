@@ -11,11 +11,7 @@ Website for Pickle Balance — strength and balance coaching for pickleball play
 
 ## Contact form
 
-The contact form posts to Formspree. Before it works, replace `YOUR_FORM_ID` in the form `action` in `index.html` with a real Formspree form ID:
-
-1. Sign up free at [formspree.io](https://formspree.io) with the email you want submissions sent to.
-2. Create a new form, copy its endpoint (`https://formspree.io/f/xxxxxxx`).
-3. Paste it into the `action` attribute of `#contactForm` in `index.html`.
+The contact form posts to a Formspree endpoint set in the `action` attribute of `#contactForm` in `index.html`. To change where submissions go, update or reconnect the form at [formspree.io](https://formspree.io).
 
 ## Local preview
 
