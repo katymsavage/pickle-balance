@@ -33,9 +33,9 @@ contactForm.addEventListener("submit", async (event) => {
       formStatus.textContent = "Thanks! Your message has been sent.";
       contactForm.reset();
     } else {
-      formStatus.textContent = "Something went wrong. Please email katymsavage@gmail.com directly.";
+      formStatus.textContent = "Something went wrong. Please email coachkatysavage@gmail.com directly.";
     }
   } catch (err) {
-    formStatus.textContent = "Something went wrong. Please email katymsavage@gmail.com directly.";
+    formStatus.textContent = "Something went wrong. Please email coachkatysavage@gmail.com directly.";
   }
 });
