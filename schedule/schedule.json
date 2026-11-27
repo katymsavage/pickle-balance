@@ -1,0 +1,164 @@
+{
+  "updated": "2026-11-26T19:32",
+  "from": "2026-11-26",
+  "to": "2026-12-31",
+  "contact_phone": "323-516-9164",
+  "early_roster_note": "Some classes don't open for sign-up until closer to the date. Want a spot now? Text me and I'll put you on the roster early.",
+  "offerings": [
+    {
+      "title": "Private lessons",
+      "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast \u2014 text to book."
+    },
+    {
+      "title": "Quad Squad",
+      "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "start": "17:30",
+      "end": "19:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-11-30",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-01",
+      "start": "12:00",
+      "end": "13:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-01",
+      "start": "13:00",
+      "end": "14:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "13:00",
+      "end": "14:30",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "15:00",
+      "end": "16:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-04",
+      "start": "15:00",
+      "end": "16:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-07",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Evan",
+      "level": "3.0 \u2013 4.0",
+      "price": "$40 ($35 each when you prepay two)",
+      "location": "Pictona at Holly Hill",
+      "blurb": "Every other Monday, one fundamental per class: drives, resets, kitchen volleys, serve & return.",
+      "signup": null,
+      "title": "Master Class with Katy & Evan: Drives"
+    },
+    {
+      "date": "2026-12-09",
+      "start": "13:00",
+      "end": "14:30",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-09",
+      "start": "15:00",
+      "end": "16:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-15",
+      "start": "12:00",
+      "end": "13:00",
+      "kind": "booked"
+    },
+    {
+      "date": "2026-12-16",
+      "start": "13:00",
+      "end": "14:30",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-21",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Evan",
+      "level": "3.0 \u2013 4.0",
+      "price": "$40 ($35 each when you prepay two)",
+      "location": "Pictona at Holly Hill",
+      "blurb": "Every other Monday, one fundamental per class: drives, resets, kitchen volleys, serve & return.",
+      "signup": null,
+      "title": "Master Class with Katy & Evan: Drives"
+    },
+    {
+      "date": "2026-12-23",
+      "start": "13:00",
+      "end": "14:30",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-30",
+      "start": "13:00",
+      "end": "14:30",
+      "kind": "class",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Dink. Drill. Dominate!"
+    }
+  ]
+}
