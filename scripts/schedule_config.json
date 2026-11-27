@@ -6,7 +6,10 @@
   "early_roster_note": "Some classes don't open for sign-up until closer to the date. Want a spot now? Text me and I'll put you on the roster early.",
   "classes": [
     {
-      "match": ["dink. drill. dominate", "dink drill dominate"],
+      "match": [
+        "dink. drill. dominate",
+        "dink drill dominate"
+      ],
       "title": "Dink. Drill. Dominate!",
       "coaches": "Coach Katy & Coach Lisa",
       "level": "Intermediate",
@@ -16,7 +19,9 @@
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
     },
     {
-      "match": ["coached round robin"],
+      "match": [
+        "coached round robin"
+      ],
       "title": "Coached Round Robin",
       "coaches": "Coach Katy & Coach Lisa",
       "level": "Intermediate",
@@ -26,7 +31,13 @@
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
     },
     {
-      "match": ["master drives", "master class", "master resets", "master volleys", "master serve"],
+      "match": [
+        "master drives",
+        "master class",
+        "master resets",
+        "master volleys",
+        "master serve"
+      ],
       "title": "Master Class with Katy & Evan",
       "title_from_event": true,
       "coaches": "Coach Katy & Coach Evan",
@@ -37,7 +48,11 @@
       "signup": null
     },
     {
-      "match": ["pickle-balance", "pickle balance", "picklebalance"],
+      "match": [
+        "pickle-balance",
+        "pickle balance",
+        "picklebalance"
+      ],
       "title": "Pickle-Balance",
       "coaches": "Coach Katy",
       "level": "All levels",
@@ -47,17 +62,23 @@
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
     },
     {
-      "match": ["move your feet"],
-      "title": "Move Your Feet",
-      "coaches": "Coach Katy",
+      "match": [
+        "move your feet"
+      ],
+      "title": "Move Your Feet!",
+      "coaches": "Clinic with Katy",
       "level": "All levels",
-      "price": "$25",
+      "price": "$25 per person, paid to instructor",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Court footwork: drop step, lob retrieval, covering the middle and injury prevention.",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
     },
     {
-      "match": ["drill like a 4.5", "4.0 to 4.5", "4.0-4.5"],
+      "match": [
+        "drill like a 4.5",
+        "4.0 to 4.5",
+        "4.0-4.5"
+      ],
       "title": "Drill Like a 4.5",
       "coaches": "Coach Katy & Coach Lane",
       "level": "4.0+ working toward 4.5",
@@ -75,7 +96,13 @@
     "^group lesson"
   ],
   "offerings": [
-    {"title": "Private lessons", "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast — text to book."},
-    {"title": "Quad Squad", "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."}
+    {
+      "title": "Private lessons",
+      "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast — text to book."
+    },
+    {
+      "title": "Quad Squad",
+      "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."
+    }
   ]
 }
