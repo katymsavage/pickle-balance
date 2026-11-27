@@ -149,14 +149,18 @@
           "$45 / person"
         ]
       ],
-      "note": "Got a group of 4? Book a Quad Squad.",
+      "note": "Larger groups can be booked too. Text me for pricing.",
       "cta": "Text to book a group lesson",
       "sms_body": "Hi Katy! I'd like to book a group lesson."
     },
     {
       "title": "Quad Squad",
-      "detail": "90 minutes for your group of 4: play a game, fix the pain points, then play again with live feedback.",
+      "detail": "Your group of 4: play a game, fix the pain points, then play again with live feedback. Go 90 minutes to get the most out of it.",
       "prices": [
+        [
+          "4 people · 1 hour",
+          "$30 / person"
+        ],
         [
           "4 people · 90 min",
           "$40 / person"
