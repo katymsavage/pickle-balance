@@ -1,0 +1,81 @@
+{
+  "_readme": "Rules for turning Katy's private Google Calendar into the public schedule. Only events matching a class rule are shown with details. Events matching a 'booked' pattern show as an anonymous 'Booked' block. EVERYTHING ELSE IS HIDDEN. Never add student names here.",
+  "days_ahead": 35,
+  "timezone": "America/New_York",
+  "contact_phone": "323-516-9164",
+  "early_roster_note": "Some classes don't open for sign-up until closer to the date. Want a spot now? Text me and I'll put you on the roster early.",
+  "classes": [
+    {
+      "match": ["dink. drill. dominate", "dink drill dominate"],
+      "title": "Dink. Drill. Dominate!",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    },
+    {
+      "match": ["coached round robin"],
+      "title": "Coached Round Robin",
+      "coaches": "Coach Katy & Coach Lisa",
+      "level": "Intermediate",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Competitive round robin with live coaching between points.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    },
+    {
+      "match": ["master drives", "master class", "master resets", "master volleys", "master serve"],
+      "title": "Master Class with Katy & Evan",
+      "title_from_event": true,
+      "coaches": "Coach Katy & Coach Evan",
+      "level": "3.0 – 4.0",
+      "price": "$40 ($35 each when you prepay two)",
+      "location": "Pictona at Holly Hill",
+      "blurb": "Every other Monday, one fundamental per class: drives, resets, kitchen volleys, serve & return.",
+      "signup": null
+    },
+    {
+      "match": ["pickle-balance", "pickle balance", "picklebalance"],
+      "title": "Pickle-Balance",
+      "coaches": "Coach Katy",
+      "level": "All levels",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Core strength and balance for pickleball: single-leg work, squats and holds.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    },
+    {
+      "match": ["move your feet"],
+      "title": "Move Your Feet",
+      "coaches": "Coach Katy",
+      "level": "All levels",
+      "price": "$25",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Court footwork: drop step, lob retrieval, covering the middle and injury prevention.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    },
+    {
+      "match": ["drill like a 4.5", "4.0 to 4.5", "4.0-4.5"],
+      "title": "Drill Like a 4.5",
+      "coaches": "Coach Katy & Coach Lane",
+      "level": "4.0+ working toward 4.5",
+      "price": "$30",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Week-to-week progression for advanced players, one skill focus per session.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    }
+  ],
+  "booked_patterns": [
+    " at chipshot$",
+    " at pictona$",
+    "^quad squad",
+    "^private lesson",
+    "^group lesson"
+  ],
+  "offerings": [
+    {"title": "Private lessons", "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast — text to book."},
+    {"title": "Quad Squad", "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."}
+  ]
+}

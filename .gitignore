@@ -1,2 +1,5 @@
 .claude/
 .devserver.ps1
+
+# Private calendar exports used to build the schedule. Never commit.
+scripts/raw*.json
