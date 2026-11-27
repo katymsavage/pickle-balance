@@ -58,7 +58,8 @@
       "price": "$40 per person",
       "location": "Pictona at Holly Hill",
       "blurb": "Train with two of Pictona's top coaches. Each class drills one fundamental, like kitchen volleys, serve & return or resets, with real reps and on-the-spot form fixes.",
-      "signup": null
+      "signup": "https://app.courtreserve.com/EventsCalendar/Index?viewType=Month",
+      "signup_label": "Register on CourtReserve"
     },
     {
       "match": [

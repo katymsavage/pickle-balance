@@ -79,7 +79,7 @@ def build(raw_events, cfg, today):
                 m = re.match(r"\s*master\s+(.+?)(?:\s+with\b.*)?$", ev["summary"], re.I)
                 if m and m.group(1).strip().lower() not in ("class",):
                     title = f"{rule['title']}: {m.group(1).strip()}"
-            item.update({k: rule.get(k) for k in ("coaches", "level", "price", "location", "blurb", "signup")})
+            item.update({k: rule.get(k) for k in ("coaches", "level", "price", "location", "blurb", "signup", "signup_label")})
             item["title"] = title
         out.append(item)
     out.sort(key=lambda x: (x["date"], x["start"]))
