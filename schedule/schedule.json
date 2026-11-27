@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:20",
+  "updated": "2026-11-26T20:24",
   "from": "2026-11-26",
   "to": "2026-12-31",
   "contact_phone": "323-516-9164",
@@ -44,6 +44,32 @@
       "start": "11:00",
       "end": "12:00",
       "kind": "booked"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-02",
@@ -98,6 +124,32 @@
     },
     {
       "date": "2026-12-09",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-09",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-09",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
@@ -133,6 +185,32 @@
       "start": "12:00",
       "end": "13:00",
       "kind": "booked"
+    },
+    {
+      "date": "2026-12-16",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-16",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-16",
@@ -175,6 +253,32 @@
     },
     {
       "date": "2026-12-23",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-23",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-23",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
@@ -198,6 +302,32 @@
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Move Your Feet!"
+    },
+    {
+      "date": "2026-12-30",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-30",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-30",

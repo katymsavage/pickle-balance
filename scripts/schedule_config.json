@@ -20,6 +20,22 @@
     },
     {
       "match": [
+        "duos 'n pros",
+        "duos n pros",
+        "duos and pros",
+        "duos & pros",
+        "duos ’n pros"
+      ],
+      "title": "Duos 'n Pros",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage"
+    },
+    {
+      "match": [
         "coached round robin"
       ],
       "title": "Coached Round Robin",
