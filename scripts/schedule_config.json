@@ -114,11 +114,68 @@
   "offerings": [
     {
       "title": "Private lessons",
-      "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast — text to book."
+      "detail": "1-on-1 coaching at Chipshot or Pictona, built around your game.",
+      "prices": [
+        [
+          "1 hour",
+          "$65"
+        ],
+        [
+          "90 minutes",
+          "$90"
+        ]
+      ],
+      "cta": "Text to book a private lesson",
+      "sms_body": "Hi Katy! I'd like to book a private lesson."
+    },
+    {
+      "title": "Group lessons & play dates",
+      "detail": "Bring a friend or two and split the coaching.",
+      "prices": [
+        [
+          "2 people · 1 hour",
+          "$40 / person"
+        ],
+        [
+          "2 people · 90 min",
+          "$50 / person"
+        ],
+        [
+          "3 people · 1 hour",
+          "$35 / person"
+        ],
+        [
+          "3 people · 90 min",
+          "$45 / person"
+        ]
+      ],
+      "note": "Got a group of 4? Book a Quad Squad.",
+      "cta": "Text to book a group lesson",
+      "sms_body": "Hi Katy! I'd like to book a group lesson."
     },
     {
       "title": "Quad Squad",
-      "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."
+      "detail": "90 minutes for your group of 4: play a game, fix the pain points, then play again with live feedback.",
+      "prices": [
+        [
+          "4 people · 90 min",
+          "$40 / person"
+        ]
+      ],
+      "cta": "Text to book a Quad Squad",
+      "sms_body": "Hi Katy! I'd like to book a Quad Squad for my group of 4."
+    },
+    {
+      "title": "Duos 'n Pros",
+      "detail": "Book Katy & Lisa for your own session. Bring your partner, play the Pros, and take home video analysis and shot-by-shot stats.",
+      "prices": [
+        [
+          "Per player",
+          "$40 / person"
+        ]
+      ],
+      "cta": "Text to book Duos 'n Pros",
+      "sms_body": "Hi Katy! My partner and I would like to book a Duos 'n Pros session."
     }
   ]
 }
