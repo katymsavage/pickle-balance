@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T22:04",
-  "from": "2026-11-26",
-  "to": "2026-12-31",
+  "updated": "2026-11-27T05:44",
+  "from": "2026-11-27",
+  "to": "2027-01-01",
   "contact_phone": "323-516-9164",
   "early_roster_note": "Some classes don't open for sign-up until closer to the date. Want a spot now? Text me and I'll put you on the roster early.",
   "offerings": [
@@ -113,6 +113,20 @@
       "kind": "booked"
     },
     {
+      "date": "2026-12-01",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
+      "title": "Move Your Feet!"
+    },
+    {
       "date": "2026-12-02",
       "start": "11:00",
       "end": "12:00",
@@ -207,6 +221,20 @@
       "title": "Master Class with Katy & Evan: Drives"
     },
     {
+      "date": "2026-12-08",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
+      "title": "Move Your Feet!"
+    },
+    {
       "date": "2026-12-09",
       "start": "12:00",
       "end": "12:30",
@@ -299,6 +327,20 @@
       "kind": "booked"
     },
     {
+      "date": "2026-12-15",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
+      "title": "Move Your Feet!"
+    },
+    {
       "date": "2026-12-16",
       "start": "12:00",
       "end": "12:30",
@@ -369,6 +411,20 @@
       "title": "Master Class with Katy & Evan: Resets"
     },
     {
+      "date": "2026-12-22",
+      "start": "19:00",
+      "end": "20:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
+      "title": "Move Your Feet!"
+    },
+    {
       "date": "2026-12-23",
       "start": "12:00",
       "end": "12:30",
@@ -414,6 +470,20 @@
       "date": "2026-12-24",
       "start": "11:00",
       "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
+      "title": "Move Your Feet!"
+    },
+    {
+      "date": "2026-12-29",
+      "start": "19:00",
+      "end": "20:00",
       "kind": "class",
       "coaches": "Clinic with Katy",
       "level": "All levels",
