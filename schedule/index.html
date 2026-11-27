@@ -151,7 +151,7 @@
           if (e.blurb) c.appendChild(el('p', null, e.blurb));
           var a = el('div', 'actions');
           if (e.signup) {
-            var s = el('a', 'btn btn-primary btn-sm', 'Sign up'); s.href = e.signup; s.target = '_blank'; s.rel = 'noopener'; a.appendChild(s);
+            var s = el('a', 'btn btn-primary btn-sm', e.signup_label || 'Sign up'); s.href = e.signup; s.target = '_blank'; s.rel = 'noopener'; a.appendChild(s);
           }
           var tx = el('a', 'btn btn-secondary btn-sm', e.signup ? 'Not open yet? Text me' : 'Text to reserve a spot'); tx.href = sms; a.appendChild(tx);
           c.appendChild(a);

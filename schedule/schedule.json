@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:23",
+  "updated": "2026-11-26T22:04",
   "from": "2026-11-26",
   "to": "2026-12-31",
   "contact_phone": "323-516-9164",
@@ -129,6 +129,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -142,6 +143,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -155,6 +157,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Dink. Drill. Dominate!"
     },
     {
@@ -174,6 +177,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Move Your Feet!"
     },
     {
@@ -198,7 +202,8 @@
       "price": "$40 per person",
       "location": "Pictona at Holly Hill",
       "blurb": "Train with two of Pictona's top coaches. Each class drills one fundamental, like kitchen volleys, serve & return or resets, with real reps and on-the-spot form fixes.",
-      "signup": null,
+      "signup": "https://app.courtreserve.com/EventsCalendar/Index?viewType=Month",
+      "signup_label": "Register on CourtReserve",
       "title": "Master Class with Katy & Evan: Drives"
     },
     {
@@ -212,6 +217,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -225,6 +231,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -238,6 +245,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Dink. Drill. Dominate!"
     },
     {
@@ -257,6 +265,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Move Your Feet!"
     },
     {
@@ -300,6 +309,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -313,6 +323,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -326,6 +337,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Dink. Drill. Dominate!"
     },
     {
@@ -339,6 +351,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Move Your Feet!"
     },
     {
@@ -351,7 +364,8 @@
       "price": "$40 per person",
       "location": "Pictona at Holly Hill",
       "blurb": "Train with two of Pictona's top coaches. Each class drills one fundamental, like kitchen volleys, serve & return or resets, with real reps and on-the-spot form fixes.",
-      "signup": null,
+      "signup": "https://app.courtreserve.com/EventsCalendar/Index?viewType=Month",
+      "signup_label": "Register on CourtReserve",
       "title": "Master Class with Katy & Evan: Resets"
     },
     {
@@ -365,6 +379,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -378,6 +393,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -391,6 +407,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Dink. Drill. Dominate!"
     },
     {
@@ -404,6 +421,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Move Your Feet!"
     },
     {
@@ -417,6 +435,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -430,6 +449,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Duos 'n Pros"
     },
     {
@@ -443,6 +463,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Dink. Drill. Dominate!"
     },
     {
@@ -456,6 +477,7 @@
       "location": "Chipshot Pickleball Daytona",
       "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "signup_label": null,
       "title": "Move Your Feet!"
     }
   ]
