@@ -5,15 +5,16 @@ Usage:
     python3 scripts/build_schedule.py RAW_EVENTS.json [--today YYYY-MM-DD]
 
 RAW_EVENTS.json is a JSON list of Google Calendar events (each with "summary",
-"start" and "end"; an optional "status"). It holds private details, so keep it
+"start" and "end"; optional "status" and "transparency"). It holds private details, so keep it
 OUTSIDE this repository and never commit it.
 
 Privacy rules (see scripts/schedule_config.json):
   * Events whose title matches a class rule are published with the class's
     public details from the config (never the event's description or guests).
-  * Events matching a "booked" pattern are published only as an anonymous
-    "Booked" time block: no title, no names.
-  * Everything else (family, personal, all-day events) is dropped.
+  * Every other timed event is published only as an anonymous "Booked"
+    time block: no title, no names.
+  * All-day events and events marked "Free" (transparency: transparent)
+    are dropped.
 """
 import json
 import re
@@ -57,7 +58,11 @@ def build(raw_events, cfg, today):
             continue  # all-day events are always private
         kind, rule = classify(ev.get("summary", ""), cfg)
         if kind is None:
-            continue
+            # Any other timed event blocks her time: show it as an anonymous
+            # "Booked" block, unless it is marked Free in Google Calendar.
+            if ev.get("transparency") == "transparent":
+                continue
+            kind = "booked"
         s, e = parse_dt(start["dateTime"], tz), parse_dt(end["dateTime"], tz)
         if not (today <= s.date() <= horizon):
             continue
@@ -71,9 +76,9 @@ def build(raw_events, cfg, today):
             title = rule["title"]
             if rule.get("title_from_event"):
                 # e.g. "Master Drives with Evan" -> theme "Drives"
-                m = re.search(r"master\s+(\w+)", ev["summary"], re.I)
-                if m and m.group(1).lower() not in ("class",):
-                    title = f"{rule['title']}: {m.group(1).capitalize()}"
+                m = re.match(r"\s*master\s+(.+?)(?:\s+with\b.*)?$", ev["summary"], re.I)
+                if m and m.group(1).strip().lower() not in ("class",):
+                    title = f"{rule['title']}: {m.group(1).strip()}"
             item.update({k: rule.get(k) for k in ("coaches", "level", "price", "location", "blurb", "signup")})
             item["title"] = title
         out.append(item)

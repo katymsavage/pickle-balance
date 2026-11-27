@@ -1,5 +1,5 @@
 {
-  "_readme": "Rules for turning Katy's private Google Calendar into the public schedule. Only events matching a class rule are shown with details. Events matching a 'booked' pattern show as an anonymous 'Booked' block. EVERYTHING ELSE IS HIDDEN. Never add student names here.",
+  "_readme": "Rules for turning Katy's private Google Calendar into the public schedule. Events matching a class rule are shown with the class's public details. Every other timed event that blocks her time shows only as an anonymous 'Booked' block (no title, no names). All-day events and events marked 'Free' in Google Calendar are hidden. Never add student names here.",
   "days_ahead": 35,
   "timezone": "America/New_York",
   "contact_phone": "323-516-9164",
@@ -48,11 +48,8 @@
     },
     {
       "match": [
-        "master drives",
         "master class",
-        "master resets",
-        "master volleys",
-        "master serve"
+        "with evan"
       ],
       "title": "Master Class with Katy & Evan",
       "title_from_event": true,
