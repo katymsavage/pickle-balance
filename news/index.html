@@ -37,6 +37,34 @@
     .punches i.free { border-style: solid; background: var(--color-primary); color: var(--color-bg); width: auto; padding: 0 14px; border-radius: 999px; }
     .signoff { text-align: center; color: var(--color-text-muted); margin-top: 36px; }
     .signoff strong { color: var(--color-text); }
+
+    /* Clean white page with stronger contrast (dark mode still follows the phone setting). */
+    @media (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
+      :root { --color-bg: #ffffff; --color-bg-alt: #f3f3f3; --color-text: #111111; --color-text-muted: #3f3f3f;
+              --color-border: #d4d4d4; --color-primary: #2f6b2c; --color-primary-dark: #234f21; --card-bg: #ffffff; }
+      .story .tag, .toc a span { color: #b5531a; }
+    }
+    @media (prefers-color-scheme: dark) { :root { --color-text-muted: #c3ccd6; } }
+    .news-hero { background: var(--color-bg); }
+
+    /* Phones: smaller headings, less padding, so each story fits on the screen. */
+    @media (max-width: 640px) {
+      .news-hero { padding: 24px 0 12px; }
+      .news-hero h1 { font-size: 1.7rem; margin-bottom: 6px; }
+      .news-hero p { font-size: .98rem; line-height: 1.45; }
+      .news-hero .eyebrow { font-size: .72rem; margin-bottom: 4px; }
+      .story li { line-height: 1.45; }
+      .news { padding: 0 16px 48px; }
+      .toc { grid-template-columns: 1fr 1fr; gap: 8px; margin: 6px 0 18px; }
+      .toc a { padding: 9px 10px; font-size: .92rem; line-height: 1.25; }
+      .story { padding: 16px 16px; margin-bottom: 14px; }
+      .story h2 { font-size: 1.35rem; margin-bottom: 6px; }
+      .story p { margin-bottom: 10px; font-size: .98rem; line-height: 1.5; }
+      .story ul { margin-bottom: 12px; font-size: .98rem; }
+      .btn-sm { padding: 9px 16px; font-size: .92rem; }
+      .punches i { width: 32px; height: 32px; }
+      .signoff { margin-top: 22px; }
+    }
   </style>
 </head>
 <body>
