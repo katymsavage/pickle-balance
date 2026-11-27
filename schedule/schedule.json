@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:32",
+  "updated": "2026-11-26T21:15",
   "from": "2026-11-26",
   "to": "2026-12-31",
   "contact_phone": "323-516-9164",
@@ -7,11 +7,72 @@
   "offerings": [
     {
       "title": "Private lessons",
-      "detail": "1-on-1 coaching at Chipshot or Pictona. Open times fill fast \u2014 text to book."
+      "detail": "1-on-1 coaching at Chipshot or Pictona, built around your game.",
+      "prices": [
+        [
+          "1 hour",
+          "$65"
+        ],
+        [
+          "90 minutes",
+          "$90"
+        ]
+      ],
+      "cta": "Text to book a private lesson",
+      "sms_body": "Hi Katy! I'd like to book a private lesson."
+    },
+    {
+      "title": "Group lessons & play dates",
+      "detail": "Bring a friend or two and split the coaching.",
+      "prices": [
+        [
+          "2 people \u00b7 1 hour",
+          "$40 / person"
+        ],
+        [
+          "2 people \u00b7 90 min",
+          "$50 / person"
+        ],
+        [
+          "3 people \u00b7 1 hour",
+          "$35 / person"
+        ],
+        [
+          "3 people \u00b7 90 min",
+          "$45 / person"
+        ]
+      ],
+      "note": "Larger groups can be booked too. Text me for pricing.",
+      "cta": "Text to book a group lesson",
+      "sms_body": "Hi Katy! I'd like to book a group lesson."
     },
     {
       "title": "Quad Squad",
-      "detail": "90-minute lesson for your group of 4: play, fix the pain points, play again with live feedback. $40 per person."
+      "detail": "Your group of 4: play a game, fix the pain points, then play again with live feedback. Go 90 minutes to get the most out of it.",
+      "prices": [
+        [
+          "4 people \u00b7 1 hour",
+          "$30 / person"
+        ],
+        [
+          "4 people \u00b7 90 min",
+          "$40 / person"
+        ]
+      ],
+      "cta": "Text to book a Quad Squad",
+      "sms_body": "Hi Katy! I'd like to book a Quad Squad for my group of 4."
+    },
+    {
+      "title": "Duos 'n Pros",
+      "detail": "Book Katy & Lisa for your own session. Bring your partner, play the Pros, and take home video analysis and shot-by-shot stats.",
+      "prices": [
+        [
+          "Per player",
+          "$40 / person"
+        ]
+      ],
+      "cta": "Text to book Duos 'n Pros",
+      "sms_body": "Hi Katy! My partner and I would like to book a Duos 'n Pros session."
     }
   ],
   "events": [
@@ -47,14 +108,40 @@
     },
     {
       "date": "2026-12-02",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-02",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-02",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
-      "coaches": "Coach Katy & Coach Lisa",
+      "coaches": "Clinic with Lisa & Katy",
       "level": "Intermediate",
-      "price": "$40",
+      "price": "$40 per person, paid to coaches (cash, Zelle or Venmo)",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Dink. Drill. Dominate!"
     },
@@ -63,6 +150,19 @@
       "start": "15:00",
       "end": "16:00",
       "kind": "booked"
+    },
+    {
+      "date": "2026-12-03",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Move Your Feet!"
     },
     {
       "date": "2026-12-04",
@@ -77,22 +177,48 @@
       "kind": "class",
       "coaches": "Coach Katy & Coach Evan",
       "level": "3.0 \u2013 4.0",
-      "price": "$40 ($35 each when you prepay two)",
+      "price": "$40 per person",
       "location": "Pictona at Holly Hill",
-      "blurb": "Every other Monday, one fundamental per class: drives, resets, kitchen volleys, serve & return.",
+      "blurb": "Train with two of Pictona's top coaches. Each class drills one fundamental, like kitchen volleys, serve & return or resets, with real reps and on-the-spot form fixes.",
       "signup": null,
       "title": "Master Class with Katy & Evan: Drives"
+    },
+    {
+      "date": "2026-12-09",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-09",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-09",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
-      "coaches": "Coach Katy & Coach Lisa",
+      "coaches": "Clinic with Lisa & Katy",
       "level": "Intermediate",
-      "price": "$40",
+      "price": "$40 per person, paid to coaches (cash, Zelle or Venmo)",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Dink. Drill. Dominate!"
     },
@@ -103,6 +229,19 @@
       "kind": "booked"
     },
     {
+      "date": "2026-12-10",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Move Your Feet!"
+    },
+    {
       "date": "2026-12-15",
       "start": "12:00",
       "end": "13:00",
@@ -110,16 +249,55 @@
     },
     {
       "date": "2026-12-16",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-16",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-16",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
-      "coaches": "Coach Katy & Coach Lisa",
+      "coaches": "Clinic with Lisa & Katy",
       "level": "Intermediate",
-      "price": "$40",
+      "price": "$40 per person, paid to coaches (cash, Zelle or Venmo)",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-17",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Move Your Feet!"
     },
     {
       "date": "2026-12-21",
@@ -128,37 +306,115 @@
       "kind": "class",
       "coaches": "Coach Katy & Coach Evan",
       "level": "3.0 \u2013 4.0",
-      "price": "$40 ($35 each when you prepay two)",
+      "price": "$40 per person",
       "location": "Pictona at Holly Hill",
-      "blurb": "Every other Monday, one fundamental per class: drives, resets, kitchen volleys, serve & return.",
+      "blurb": "Train with two of Pictona's top coaches. Each class drills one fundamental, like kitchen volleys, serve & return or resets, with real reps and on-the-spot form fixes.",
       "signup": null,
       "title": "Master Class with Katy & Evan: Drives"
+    },
+    {
+      "date": "2026-12-23",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-23",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-23",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
-      "coaches": "Coach Katy & Coach Lisa",
+      "coaches": "Clinic with Lisa & Katy",
       "level": "Intermediate",
-      "price": "$40",
+      "price": "$40 per person, paid to coaches (cash, Zelle or Venmo)",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-24",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Move Your Feet!"
+    },
+    {
+      "date": "2026-12-30",
+      "start": "12:00",
+      "end": "12:30",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
+    },
+    {
+      "date": "2026-12-30",
+      "start": "12:30",
+      "end": "13:00",
+      "kind": "class",
+      "coaches": "Clinic by Katy & Lisa",
+      "level": null,
+      "price": "$40 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Bring your partner. Play the Pros. Diagnose your gameplay. Video analysis and shot-by-shot stats to take home.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Duos 'n Pros"
     },
     {
       "date": "2026-12-30",
       "start": "13:00",
       "end": "14:30",
       "kind": "class",
-      "coaches": "Coach Katy & Coach Lisa",
+      "coaches": "Clinic with Lisa & Katy",
       "level": "Intermediate",
-      "price": "$40",
+      "price": "$40 per person, paid to coaches (cash, Zelle or Venmo)",
       "location": "Chipshot Pickleball Daytona",
-      "blurb": "Focused drilling to build consistency, shot selection, movement and confidence.",
+      "blurb": "Focused drills and coached gameplay, with a different focus each week. Improve consistency, shot selection and movement, followed by guided play with live feedback.",
       "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
       "title": "Dink. Drill. Dominate!"
+    },
+    {
+      "date": "2026-12-31",
+      "start": "11:00",
+      "end": "12:00",
+      "kind": "class",
+      "coaches": "Clinic with Katy",
+      "level": "All levels",
+      "price": "$25 per person, paid to instructor",
+      "location": "Chipshot Pickleball Daytona",
+      "blurb": "Footwork takes practice, but it will make you speedy and prevent falls. Come learn how to move your feet better on the court.",
+      "signup": "https://app.getopencourt.com/club/chipshotdaytona/coaches/katy-savage",
+      "title": "Move Your Feet!"
     }
   ]
 }
