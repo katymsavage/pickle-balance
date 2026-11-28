@@ -13,8 +13,8 @@
   <meta property="og:url" content="https://picklebalance.co/news/">
   <link rel="stylesheet" href="../css/style.css">
   <style>
-    :root { --card-bg: #ffffff; }
-    @media (prefers-color-scheme: dark) { :root { --card-bg: #172133; } }
+    :root { --card-bg: #ffffff; --news-accent: #0b6e6d; }
+    @media (prefers-color-scheme: dark) { :root { --card-bg: #172133; --news-accent: #5fd0cc; } }
     .sub-nav { display: flex; gap: 18px; align-items: center; }
     .sub-nav a { text-decoration: none; color: var(--color-text); font-weight: 500; }
     .news-hero { padding: 64px 0 36px; text-align: center; background: linear-gradient(180deg, var(--color-bg-alt), var(--color-bg)); }
@@ -23,9 +23,9 @@
     .news { max-width: 760px; padding-bottom: 72px; }
     .toc { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin: 8px 0 36px; }
     .toc a { display: block; text-decoration: none; background: var(--card-bg); color: var(--color-text); border: 1px solid var(--color-border); border-radius: var(--radius); padding: 12px 14px; font-weight: 600; }
-    .toc a span { display: block; font-size: .8rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--color-accent); }
+    .toc a span { display: block; font-size: .8rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--news-accent); }
     .story { background: var(--card-bg); color: var(--color-text); border: 1px solid var(--color-border); border-radius: var(--radius); padding: 28px 30px; margin-bottom: 22px; scroll-margin-top: 90px; }
-    .story .tag { display: inline-block; font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 6px; }
+    .story .tag { display: inline-block; font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--news-accent); margin-bottom: 6px; }
     .story h2 { margin-bottom: 10px; }
     .story p { margin: 0 0 14px; }
     .story ul { margin: 0 0 16px; padding-left: 20px; }
@@ -45,7 +45,6 @@
     @media (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
       :root { --color-bg: #ffffff; --color-bg-alt: #f3f3f3; --color-text: #111111; --color-text-muted: #3f3f3f;
               --color-border: #d4d4d4; --color-primary: #2f6b2c; --color-primary-dark: #234f21; --card-bg: #ffffff; }
-      .story .tag, .toc a span { color: #b5531a; }
     }
     @media (prefers-color-scheme: dark) { :root { --color-text-muted: #c3ccd6; } }
     .news-hero { background: var(--color-bg); }
