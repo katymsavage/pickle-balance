@@ -69,6 +69,23 @@ a { color: var(--color-primary-dark); }
   font-size: 1.2rem;
   text-decoration: none;
   color: var(--color-text);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo img {
+  width: 56px;
+  height: auto;
+  display: block;
+}
+
+.footer-logo {
+  display: block;
+  width: 240px;
+  max-width: 70%;
+  height: auto;
+  margin: 0 auto 12px;
 }
 
 .nav-links {
