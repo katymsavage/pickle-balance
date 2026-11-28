@@ -97,6 +97,12 @@
       .site-bar .links { gap: 10px; font-size: .9rem; }
       .site-bar .links a.cta { padding: 6px 12px; }
     }
+    .hdr-right { display: flex; align-items: center; gap: 18px; flex-shrink: 0; position: relative; z-index: 1; }
+    .katy-logo { width: 200px; height: auto; display: block; }
+    @media (max-width: 640px) {
+      .hdr-right { position: static; align-self: flex-end; margin: -58px -8px -14px 0; }
+      .katy-logo { width: 132px; }
+    }
   </style>
 </head>
 <body>
@@ -121,7 +127,10 @@
       <h1>Holiday <span>Deals</span></h1>
       <p class="season">Plus sales tax &middot; while supplies last</p>
     </div>
-    <div class="badge"><small>Up to</small><b>60%</b><small>off retail</small></div>
+    <div class="hdr-right">
+      <img class="katy-logo" src="../images/katy-flex-logo.png" alt="Coach Katy &ldquo;the&rdquo; Savage flexing with a pickleball" width="520" height="392">
+      <div class="badge"><small>Up to</small><b>60%</b><small>off retail</small></div>
+    </div>
   </header>
   <div class="ribbon" aria-hidden="true"></div>
 
