@@ -67,6 +67,10 @@
       .punches i { width: 32px; height: 32px; }
       .signoff { margin-top: 22px; }
     }
+    .ball-row { display: flex; align-items: center; justify-content: center; gap: 12px; }
+    .ball-row img { width: 28px; height: 28px; flex-shrink: 0; }
+    .nw { white-space: nowrap; }
+    @media (max-width: 640px) { .ball-row { gap: 8px; letter-spacing: .08em; } .ball-row img { width: 22px; height: 22px; } }
   </style>
 </head>
 <body>
@@ -83,9 +87,9 @@
   <main>
     <section class="news-hero">
       <div class="container">
-        <p class="eyebrow">Coach Katy &ldquo;the&rdquo; Savage &middot; Holiday 2026</p>
+        <p class="eyebrow ball-row"><img src="../images/pickleball-icon.png" alt="" width="28" height="28"><span><span class="nw">Coach Katy &ldquo;the&rdquo; Savage</span> &middot; <span class="nw">Holiday 2026</span></span><img src="../images/pickleball-icon.png" alt="" width="28" height="28"></p>
         <h1>What&rsquo;s New on the Court</h1>
-        <p>Four new things this season: an easier way to book with me, holiday gear deals, gift cards for the pickleballer on your list, and a reward for showing up.</p>
+        <p>4 new things this season!</p>
       </div>
     </section>
 
